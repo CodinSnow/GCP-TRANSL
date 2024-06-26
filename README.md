@@ -15,4 +15,10 @@
 
 如果更新不及时还请谅解。
 ## 预览图
-![QUESTLINE]()
+![QUESTLINE](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/1.png)
+
+![矿石生成](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/2.png)
+
+![AE2流体合成](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/3.png)
+
+![基础化学浸洗机](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/4.png)
