@@ -10,16 +10,16 @@
 ## 问题反馈
 如有任何问题或建议请第一时间告知。
 
-- 直接发起一个 Issue。
+- 直接发起一个 `Issue`。
 - 如果你能发一个 `pull request` 帮我改正就再好不过了。
 - 在我的[ Bilibili 账户](https://space.bilibili.com/616473668)下私信或评论指出问题。
 
 如果更新不及时还请谅解。
 ## 预览图
-![QUESTLINE](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/1.png)
+![QUESTLINE](https://github.com/CodinSnow/GCP-TRANSL/blob/main/picture/1.png)
 
-![矿石生成](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/2.png)
+![矿石生成](https://github.com/CodinSnow/GCP-TRANSL/blob/main/picture/2.png)
 
-![AE2流体合成](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/3.png)
+![AE2流体合成](https://github.com/CodinSnow/GCP-TRANSL/blob/main/picture/3.png)
 
-![基础化学浸洗机](https://github.com/CodinSnow/GCP-TRANSL/blob/CodinSnow-patch-2/picture/4.png)
+![基础化学浸洗机](https://github.com/CodinSnow/GCP-TRANSL/blob/main/picture/4.png)
