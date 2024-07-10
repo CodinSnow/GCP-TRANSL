@@ -1,5 +1,5 @@
 # GCP-TRANSL
-[格雷科技社区整合包](https://github.com/GregTechCEu/GregTech-Community-Pack)（GCP）的中文翻译库。
+[格雷科技社区整合包](https://github.com/GregTechCEu/GregTech-Community-Pack)（GCP）任务书的中文翻译库。
 ## 使用说明
 1. 点击右上角的右上角 **`Code`**，再点击 `Download ZIP` 进行下载。（如果你的网络比较稳定也可以直接下载那个文件。）
 2. 打开版本文件夹，把 `.../config/betterquesting/DefaultQuests.json` 替换为所下载文件中的 `DefaultQuests.json`。
