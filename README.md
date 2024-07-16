@@ -5,6 +5,8 @@
 2. 打开版本文件夹，把 `.../config/betterquesting/DefaultQuests.json` 替换为所下载文件中的 `DefaultQuests.json`。
 3. 使用[自动汉化更新模组（i18n）](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)进行模组汉化。
 4. 如无法正常显示，请在游戏内重载任务书（输入指令 `/bq_admin default load`）。
+
+在本整合包内找不到对应的物品或机器的英文原文和其所对应的翻译都在附录一中。
 ## 开源许可
 本项目使用 [LGPLv3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html) 进行许可。全文请见[此处](https://github.com/CodinSnow/GCP-TRANSL/blob/main/LICENSE)。
 ## 问题反馈
